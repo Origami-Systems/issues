@@ -57,9 +57,9 @@ body:
         - Linux
         - MacOS
         - Windows
-        - Web
         - iOS
         - Android
+        - Other
   # - type: input
   #   id: version-os
   #   attributes:
