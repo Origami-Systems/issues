@@ -74,6 +74,7 @@ body:
         - The House App
         - The Grades App
         - The Questions App
+        - Account App
     validations:
       required: true
   - type: textarea
